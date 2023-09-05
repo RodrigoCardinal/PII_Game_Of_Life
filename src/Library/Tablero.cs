@@ -1,7 +1,7 @@
 ﻿using System.IO;
 namespace PII_Game_Of_Life
 {
-    public class ReadBoard
+    public class Tablero
     {
         public bool[,] board;
         public bool[,] GetBoard
